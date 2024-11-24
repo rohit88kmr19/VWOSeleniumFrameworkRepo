@@ -1,4 +1,4 @@
-package VWOLogin.com;
+package VWOLogin.com.test.Sample;
 
 import io.qameta.allure.Description;
 import org.openqa.selenium.By;
