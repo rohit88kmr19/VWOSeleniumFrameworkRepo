@@ -1,3 +1,39 @@
 2024-11-26 11:54:58 INFO  TestVWOLogin_POM - Starting the Testcases
 2024-11-26 11:54:58 INFO  TestVWOLogin_POM - Opening the URL
 2024-11-26 11:55:04 INFO  TestVWOLogin_POM - Verifying the Error Message is theYour email, password, IP address or location did not match
+2024-11-26 12:39:23 INFO  TestVWOLogin_PF - Starting the Testcases Page Factory
+2024-11-26 12:43:08 INFO  TestVWOLogin_PF - Starting the Testcases Page Factory
+2024-11-26 12:46:15 INFO  TestVWOLogin_PF - Starting the Testcases Page Factory
+2024-11-26 12:46:35 INFO  TestVWOLogin_PF - Verifying the Error Message is the--->Your email, password, IP address or location did not match
+2024-11-26 12:51:28 INFO  TestVWOLogin_PF - Starting the Testcases Page Factory
+2024-11-26 12:56:26 INFO  TestVWOLogin_PF - Starting the Testcases Page Factory
+2024-11-29 14:06:40 INFO  TestVWOLogin_POM_Retry - Starting the Testcases
+2024-11-29 14:06:40 INFO  TestVWOLogin_POM_Retry - Opening the URL
+2024-11-29 14:06:46 INFO  TestVWOLogin_POM_Retry - Verifying the Error Message is theYour email, password, IP address or location did not match
+2024-11-29 14:13:23 INFO  TestVWOLogin_POM_Retry - Starting the Testcases
+2024-11-29 14:13:23 INFO  TestVWOLogin_POM_Retry - Opening the URL
+2024-11-29 14:13:28 INFO  TestVWOLogin_POM_Retry - Verifying the Error Message is theYour email, password, IP address or location did not match
+2024-11-29 14:13:33 INFO  TestVWOLogin_POM_Retry - Starting the Testcases
+2024-11-29 14:13:33 INFO  TestVWOLogin_POM_Retry - Opening the URL
+2024-11-29 14:13:39 INFO  TestVWOLogin_POM_Retry - Verifying the Error Message is theYour email, password, IP address or location did not match
+2024-11-29 14:13:43 INFO  TestVWOLogin_POM_Retry - Starting the Testcases
+2024-11-29 14:13:43 INFO  TestVWOLogin_POM_Retry - Opening the URL
+2024-11-29 14:13:48 INFO  TestVWOLogin_POM_Retry - Verifying the Error Message is theYour email, password, IP address or location did not match
+2024-11-29 14:13:52 INFO  TestVWOLogin_POM_Retry - Starting the Testcases
+2024-11-29 14:13:52 INFO  TestVWOLogin_POM_Retry - Opening the URL
+2024-11-29 14:13:58 INFO  TestVWOLogin_POM_Retry - Verifying the Error Message is theYour email, password, IP address or location did not match
+2024-12-02 11:41:43 INFO  TestVWOLogin_POM_Retry - Starting the Testcases
+2024-12-02 11:41:43 INFO  TestVWOLogin_POM_Retry - Opening the URL
+2024-12-02 11:41:49 INFO  TestVWOLogin_POM_Retry - Verifying the Error Message is theYour email, password, IP address or location did not match
+2024-12-02 12:04:29 INFO  TestVWOLogin_POM_GroupingTC - Starting the Testcases
+2024-12-02 12:04:29 INFO  TestVWOLogin_POM_GroupingTC - Opening the URL
+2024-12-02 12:05:10 INFO  TestVWOLogin_POM_GroupingTC - Starting the Testcases
+2024-12-02 12:05:10 INFO  TestVWOLogin_POM_GroupingTC - Opening the URL
+2024-12-02 12:06:43 INFO  TestVWOLogin_POM_GroupingTC - Starting the Testcases
+2024-12-02 12:06:43 INFO  TestVWOLogin_POM_GroupingTC - Opening the URL
+2024-12-02 12:08:58 INFO  TestVWOLogin_POM_GroupingTC - Starting the Testcases
+2024-12-02 12:08:58 INFO  TestVWOLogin_POM_GroupingTC - Opening the URL
+2024-12-02 12:09:31 INFO  TestVWOLogin_POM_GroupingTC - Starting the Testcases
+2024-12-02 12:09:31 INFO  TestVWOLogin_POM_GroupingTC - Opening the URL
+2024-12-02 12:09:43 INFO  TestVWOLogin_POM_GroupingTC - Starting the Testcases
+2024-12-02 12:09:43 INFO  TestVWOLogin_POM_GroupingTC - Opening the URL
